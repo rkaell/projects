@@ -1,6 +1,7 @@
 @echo off
 ::Feito Por Rhuann Kaell Souza Nascimento
 ::04/09/2017
+::Facilitou o Scan de rede pra mim, já que não posso usar nmap
 mode 50,20
 color 02
 title Scan de Ips
